@@ -11,8 +11,8 @@ Well, as clueless i was at the beginning of any programming language, (as curiou
 We all have been there, laugh at it. This code helped to me make any amount of changes to my code, and compile and run it in one click.
 
 What / How TO:
-=======
-
+=============
+Please *INSTALL* required compilers and SET Environments before use.  
 ..This program automates the process of Compiling and Execution in one click.  
 ..(When using Editors like 'SUBLIME' etc)  
 ..Place this file, where the code is present.  
